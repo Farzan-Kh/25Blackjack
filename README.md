@@ -48,11 +48,6 @@ The environment supports rendering with `pygame` for visualizing the game state 
    cd blackjack25
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. Register the custom environment:
    ```python
    import blackjack25_env
